@@ -1,7 +1,7 @@
 # author: Tiffany Timbers & Jordan Bourak
 # date: 2021-11-22
 # Adapted from github.com/ttimbers/equine_numbers_value_canada_parameters
-
+install.packages("docopt", repos="https://cloud.r-project.org/")
 "
 Loads horse population data (downloaded from
 http://open.canada.ca/data/en/dataset/43b3a9b3-3842-45e7-8bc8-c4c27b9462ab and

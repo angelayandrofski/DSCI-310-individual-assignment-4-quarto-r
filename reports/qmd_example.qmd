@@ -9,6 +9,8 @@ format:
         toc-expand: 2 
         toc-location: left 
         embed-resources: true
+        fig-format: png
+        fig-path: results/
 editor: source
 biblography: reference.bib
 execute:

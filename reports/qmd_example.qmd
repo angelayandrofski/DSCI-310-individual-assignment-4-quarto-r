@@ -8,6 +8,7 @@ format:
         toc-title: Table of Contents
         toc-expand: 2 
         toc-location: left 
+        embed-resources: true
 editor: source
 biblography: reference.bib
 execute:
